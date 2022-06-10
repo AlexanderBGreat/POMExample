@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="9" total="9" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Registration_Login" duration-ms="23" started-at="2022-06-10T20:03:40Z" finished-at="2022-06-10T20:03:40Z">
+    <groups>
+    </groups>
+    <test name="Registration_Login" duration-ms="3" started-at="2022-06-10T20:03:40Z" finished-at="2022-06-10T20:03:40Z">
+    </test> <!-- Registration_Login -->
+    <test name="Product_details" duration-ms="0" started-at="2022-06-10T20:03:40Z" finished-at="2022-06-10T20:03:40Z">
+    </test> <!-- Product_details -->
+    <test name="Search_Feature" duration-ms="0" started-at="2022-06-10T20:03:40Z" finished-at="2022-06-10T20:03:40Z">
+    </test> <!-- Search_Feature -->
+  </suite> <!-- Registration_Login -->
+</testng-results>
