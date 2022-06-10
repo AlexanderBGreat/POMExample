@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="3"
+           time="0.000">
+    <properties></properties>
+
+
+            <testcase
+                name="browserLauncher"
+                time="0.0"
+                classname="org.example.Product_Details.test_sizeAndColor">
+            </testcase>
+            <testcase
+                name="getResult"
+                time="0.0"
+                classname="org.example.Product_Details.test_sizeAndColor">
+            </testcase>
+            <testcase
+                name="test_sizeAndColor"
+                time="0.0"
+                classname="org.example.Product_Details.test_sizeAndColor">
+            </testcase>
+
+</testsuite>

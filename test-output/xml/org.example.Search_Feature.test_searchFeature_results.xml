@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Search_Feature"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.425">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test_searchFeature"
+                time="1.425"
+                classname="org.example.Search_Feature.test_searchFeature">
+            </testcase>
+</testsuite>

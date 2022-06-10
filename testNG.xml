@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Registration_Login" preserve-order="true" parallel="false" >
+
+    <test name="Registration_Login">
+        <classes>
+            <class name="org.example.Registration_Login.Registration_Login"></class></classes></test>
+    <test name="Product_details">
+        <classes>
+            <class name="org.example.Product_Details.Product_Details"></class></classes></test>
+
+    <test name="Search_Feature">
+        <classes>
+            <class name="org.example.Search_Feature.test_searchFeature"></class></classes></test>
+
+
+
+
+
+
+
+     <!-- Test -->
+</suite> <!-- Suite -->

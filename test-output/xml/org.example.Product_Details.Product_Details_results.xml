@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Product_details"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.215">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test_sizeAndColor"
+                time="2.019"
+                classname="org.example.Product_Details.Product_Details">
+            </testcase>
+            <testcase
+                name="test_productDetails"
+                time="2.573"
+                classname="org.example.Product_Details.Product_Details">
+            </testcase>
+            <testcase
+                name="test_quantityAdjustment"
+                time="1.891"
+                classname="org.example.Product_Details.Product_Details">
+            </testcase>
+            <testcase
+                name="test_addSpecifiedItem"
+                time="1.732"
+                classname="org.example.Product_Details.Product_Details">
+            </testcase>
+</testsuite>

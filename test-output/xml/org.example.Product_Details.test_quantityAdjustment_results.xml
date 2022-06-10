@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="2"
+           time="0.000">
+    <properties></properties>
+
+
+            <testcase
+                name="getResult"
+                time="0.0"
+                classname="org.example.Product_Details.test_quantityAdjustment">
+            </testcase>
+            <testcase
+                name="test_quantityAdjustment"
+                time="0.0"
+                classname="org.example.Product_Details.test_quantityAdjustment">
+            </testcase>
+
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Alexander_ecom_sba"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.325">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test_uniqueRegistration"
+                time="8.325"
+                classname="org.example.Registration_Login.test_uniqueRegistration">
+            </testcase>
+</testsuite>
