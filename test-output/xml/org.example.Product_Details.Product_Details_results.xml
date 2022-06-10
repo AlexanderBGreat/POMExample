@@ -4,29 +4,29 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="8.215">
+           time="7.276">
     <properties></properties>
 
 
 
             <testcase
+                name="test_addSpecifiedItem"
+                time="1.456"
+                classname="org.example.Product_Details.Product_Details">
+            </testcase>
+            <testcase
                 name="test_sizeAndColor"
-                time="2.019"
+                time="2.864"
                 classname="org.example.Product_Details.Product_Details">
             </testcase>
             <testcase
                 name="test_productDetails"
-                time="2.573"
+                time="1.574"
                 classname="org.example.Product_Details.Product_Details">
             </testcase>
             <testcase
                 name="test_quantityAdjustment"
-                time="1.891"
-                classname="org.example.Product_Details.Product_Details">
-            </testcase>
-            <testcase
-                name="test_addSpecifiedItem"
-                time="1.732"
+                time="1.382"
                 classname="org.example.Product_Details.Product_Details">
             </testcase>
 </testsuite>

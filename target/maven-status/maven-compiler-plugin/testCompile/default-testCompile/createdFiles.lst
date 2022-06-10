@@ -1,0 +1,13 @@
+org\example\Registration_Login\test_existingLogin.class
+org\example\Search_Feature\Search_Feature.class
+org\example\library\selectBrowser.class
+org\example\Registration_Login\test_uniqueRegistration.class
+org\example\Product_Details\Product_Details.class
+org\example\Product_Details\test_addSpecifiedItem.class
+org\example\Registration_Login\test_loginAllProducts.class
+org\example\Registration_Login\Registration_Login.class
+org\example\Product_Details\test_quantityAdjustment.class
+org\example\Search_Feature\test_searchFeature.class
+org\example\Registration_Login\test_checkoutAsGuest.class
+org\example\Product_Details\test_sizeAndColor.class
+org\example\Product_Details\test_productDetails.class

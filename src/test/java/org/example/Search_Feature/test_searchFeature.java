@@ -14,7 +14,7 @@ import org.openqa.selenium.*;
 import org.testng.Assert;
 import org.testng.ITestResult;
 import org.testng.annotations.*;
-import sun.plugin.dom.core.Element;
+
 
 import java.io.File;
 import java.io.IOException;
@@ -30,7 +30,7 @@ public class test_searchFeature {
         private static ExtentHtmlReporter htmlReporter;
         private static ExtentReports extent;
         private static ExtentTest test;
-    Element webElement;
+    WebElement webElement;
         @BeforeSuite
         public void setUp()
         {

@@ -10,14 +10,11 @@ import com.aventstack.extentreports.reporter.configuration.ChartLocation;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 import org.apache.commons.io.FileUtils;
 import org.example.library.selectBrowser;
-import org.openqa.selenium.By;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
-import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.*;
 import org.testng.Assert;
 import org.testng.ITestResult;
 import org.testng.annotations.*;
-import sun.plugin.dom.core.Element;
+
 
 import java.io.File;
 import java.io.IOException;
@@ -33,7 +30,7 @@ public class Search_Feature {
         private static ExtentHtmlReporter htmlReporter;
         private static ExtentReports extent;
         private static ExtentTest test;
-    Element webElement;
+    WebElement webElement;
         @BeforeSuite
         public void setUp()
         {
